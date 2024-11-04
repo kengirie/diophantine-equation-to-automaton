@@ -1,0 +1,2 @@
+# The Conversion from a Diophantine Equation to a Deterministic Finite Automaton
+This project includes Python scripts that convert Diophantine equations to deterministic finite automata using the library available at https://caleb531.github.io/automata/. The implementation is based on the paper "Diophantine Equations, Presburger Arithmetic and Finite Automata" by Alexandre Boudet and Hubert Comon.
